@@ -180,6 +180,10 @@ Primero seleccionamos el archivo de prueba de calculadora.py y en el menu izquie
 
 ![](/imagenes/C10.png)
 
+En el terminal de abajo nos muestra los problemas o las recomendaciones en mi caso solo muestra una recomendacion generada por sonarqube
+
+![](/imagenes/C11.png)
+
 ---
 ## ENTREGA
 >__Crea un repositorio  con nombre PPS-Unidad1Actividad1-Tu nombre que contenga las respuestas a las preguntas y las evidencias de que has realizado las operaciones indicadas.__
