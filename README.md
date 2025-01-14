@@ -174,6 +174,8 @@ El entorno de desarrollo nos sirve para crear nuestras aplicaciones y además po
 >__Descarga el código fuente de un proyecto java o python: compila, enlaza y ejecutaló. Tienes algunos ejemplos en la carpeta Sources de este repositorio__
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
+Primero seleccionamos el archivo de prueba de calculadora.py y en el menu izquierdo le damos a depurar y ejecutar
+
 ![](/imagenes/C9.png)
 
 ![](/imagenes/C10.png)
